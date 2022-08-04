@@ -1,1 +1,1 @@
-# NestJsCurdAPI
+# npm i @nestjs/mongoose mongoose
